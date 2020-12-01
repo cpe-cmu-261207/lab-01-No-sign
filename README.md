@@ -16,4 +16,4 @@
 Reference:
 
 - [CS50 Harvard College (week 8)](https://cs50.harvard.edu/college/2020/fall/weeks/8/)
-- [w3schools](https://www.w3schools.com/html/)
+- [w3schools](https://www.w3schools.com/html/
